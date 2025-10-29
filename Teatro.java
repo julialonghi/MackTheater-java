@@ -12,7 +12,7 @@ public class Teatro {
 
     }    
 
-    public void selecionaEspetaculos(int numero) {
+    public void selecionaEspetaculo(int numero) {
 
     }
 
